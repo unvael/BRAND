@@ -9,10 +9,10 @@ unvael public brand assets.
 
 ### logos
 
-![unvael-logo-lg-transparent.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/unvael-logo-lg-transparent.png)
-![unvael-logo-lg-transparent-symbol.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/unvael-logo-lg-transparent-symbol.png)
-![unvael-logo-md-transparent.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/unvael-logo-md-transparent.png)
-![unvael-logo-md-transparent-symbol.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/unvael-logo-md-transparent-symbol.png)
+![unvael-logo-lg-transparent.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/png/unvael-logo-lg-transparent.png)
+![unvael-logo-lg-transparent-symbol.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/png/unvael-logo-lg-transparent-symbol.png)
+![unvael-logo-md-transparent.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/png/unvael-logo-md-transparent.png)
+![unvael-logo-md-transparent-symbol.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/png/unvael-logo-md-transparent-symbol.png)
 
 
 -----
