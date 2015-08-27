@@ -52,6 +52,6 @@ unvael public brand assets.
 
 ### fonts
 
-- helvetica-nueue (sans-serif)
-- lane-e (sans-serif)
-- didot (serif)
+- [helvetica-nueue (sans-serif)](http://goo.gl/rj3C40)
+- [lane-e (sans-serif)](http://goo.gl/xfC15N)
+- [didot (serif)](https://goo.gl/yrGYlh)
