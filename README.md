@@ -10,7 +10,7 @@ unvael public brand assets.
 -----
 
 
-### logos
+### logos (transparent .PNG)
 
 ![unvael-logo-md-transparent-symbol.png](https://raw.githubusercontent.com/unvael/brand/develop/logo/png/unvael-logo-md-transparent-symbol.png)
 
