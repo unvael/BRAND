@@ -4,6 +4,9 @@ UNVAEL-brand
 unvael public brand assets.
 
 
+- paletton: http://paletton.com/palette.php?uid=11s0u0km0k5bJuphaoSrbeQxw9E
+    - palette UID: [11s0u0km0k5bJuphaoSrbeQxw9E](http://paletton.com/#uid=11s0u0km0k5bJuphaoSrbeQxw9E)
+
 -----
 
 
@@ -21,7 +24,9 @@ unvael public brand assets.
 -----
 
 
-### color palettes
+### color-palettes
+
+- photoshop swatches .ACO file: [unvael-photoshop-swatches.aco](https://raw.githubusercontent.com/unvael/brand/develop/color-swatches/unvael-photoshop-swatches.aco)
 
 ![palette-sm.png](https://raw.githubusercontent.com/unvael/brand/develop/color-swatches/palettes/palette-sm.png)
 
@@ -31,3 +36,22 @@ unvael public brand assets.
 
 ![palette-xl.png](https://raw.githubusercontent.com/unvael/brand/develop/color-swatches/palettes/palette-xl.png)
 
+
+-----
+
+
+### color-tables
+
+![paletton-color-table-template.png](https://raw.githubusercontent.com/unvael/brand/develop/color-swatches/color-tables/paletton-color-table-template.png)
+
+![paletton-color-table-min-contrast-1.png](https://raw.githubusercontent.com/unvael/brand/develop/color-swatches/color-tables/paletton-color-table-min-contrast-1.png)
+
+
+-----
+
+
+### fonts
+
+- helvetica-nueue (sans-serif)
+- lane-e (sans-serif)
+- didot (serif)
